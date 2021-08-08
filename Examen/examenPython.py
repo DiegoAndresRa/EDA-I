@@ -165,7 +165,7 @@ print("\n")
 
 '''
 # Leyendo archivo
-archivoMuestra = open("muestra.csv","r")
+archivoMuestra = open("MUESTRA.csv","r")
 contenido = archivoMuestra.read()
 archivoMuestra.close()
 print(contenido)
